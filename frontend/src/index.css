@@ -29,6 +29,10 @@
   }
 }
 
+footer, .footer, .credit {
+  display: none !important;
+}
+
 /* Custom utility styles */
 @layer utilities {
   .text-balance {
